@@ -1,1 +1,5 @@
-array = [56,78]
+
+    class account:
+
+        def __init__(self):
+            print()
