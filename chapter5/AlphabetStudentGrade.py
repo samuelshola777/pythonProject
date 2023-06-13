@@ -24,7 +24,7 @@ A = 0
 B = 0
 C = 0
 D = 0
-
-for student in range(student_list):
-   if student_list.index(student):
+#
+# for student in range(student_list):
+#    if student_list.index(student):
        
